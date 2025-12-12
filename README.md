@@ -1,4 +1,4 @@
- #Life Expectancy Dashboard
+# Life Expectancy Dashboard
 
 ##📌 Project Overview
 This project presents an interactive Life Expectancy Dashboard built in Power BI.
