@@ -36,6 +36,9 @@ The dashboard provides a clean and simple visual story that highlights key globa
 
 •	HIV/AIDS
 
+•GDP
+
+
 # 📈 Dashboard Components
 ## 1. KPI Summary Cards
 ### The top section of the dashboard displays summarized global values for:
