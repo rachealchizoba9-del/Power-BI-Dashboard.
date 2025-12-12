@@ -83,7 +83,7 @@ Understand how a country’s development status influences life expectancy.
 •	Differences in expenditure and mortality patterns among those leading countries.
 
 
-## Top 10 Countries with the Highest Gross Domestic Product.
+## 4. Top 10 Countries with the Highest Gross Domestic Product.
 ### This section highlight:
 •	The top 10 countries ranked by GDP
 
